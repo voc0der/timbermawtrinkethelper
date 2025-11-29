@@ -1,5 +1,7 @@
 # Timbermaw Trinket Helper
 
+** AI Generated **
+
 **Timbermaw Trinket Helper** is a tiny WoW addon that helps you manage  
 **Defender of the Timbermaw** and **Drake Fang Talisman** around real boss pull timers.
 
