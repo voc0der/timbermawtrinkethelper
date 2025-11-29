@@ -1,0 +1,8 @@
+## Interface: 11505
+## Title: Timbermaw Trinket Helper
+## Notes: Manages Defender of the Timbermaw vs Drake Fang Talisman around pull timers.
+## Author: vocoder + GPT-5.1
+## Version: 1.0
+## SavedVariables: TimberTrinketDB
+
+TimbermawTrinketHelper.lua
