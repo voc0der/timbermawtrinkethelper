@@ -1,6 +1,3 @@
-Here you go — a drop-in `README.md` that matches what we built:
-
-````markdown
 # Timbermaw Trinket Helper
 
 **Timbermaw Trinket Helper** is a tiny WoW addon that helps you manage  
@@ -314,8 +311,3 @@ Usage:
 
 Do whatever you want with it. Copy, fork, tweak, rename, ship a guild version, etc.
 Just don’t blame the Timbermaw if you pull with the wrong trinket equipped. 🐻
-
-```
-
-If you want, next pass we can add a tiny config section at the top of the Lua for item IDs / localization so you can just toggle Classic vs SoD etc.
-```
